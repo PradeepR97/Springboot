@@ -13,6 +13,7 @@
 		<br/><br/>
 		Password <input type="password" name="password" placeholder="some"/>
 		<br/><br/>
+		<a href="">Forget Password</a>
 		<button>Submit</button>
 	</form>
 </body>
